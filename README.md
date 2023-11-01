@@ -21,5 +21,8 @@ This is because:
 We've not implemented a "percentage score" as the assignment asks for.
 This doesn't really seem to make sense for linear regression. See associated MSE scores in the notebook.
 
+We've also made several models to show that we have the skills to implement new features, even though the features aren't that good.
+See comments and reasoning in notebook file.
+
 ## For the aspiring stock trader
 Don't use this. Hamster trader is better.
