@@ -1,4 +1,6 @@
 # Assignment 2
+This is an assignment for our Intro to AI class.
+
 ## Group 2
 - Ahmetcan Kuyu
 - Ali Sarikhaya
