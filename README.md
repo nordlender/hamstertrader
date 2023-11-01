@@ -14,6 +14,10 @@ This is because:
 2. It gives a quantifiable result.
 3. It is better for long-term predictions.
 
+### What we would chose
+If we were trading for ourselves we would use classification.
+We've only chosen regression to satisfy the terms of the assignment.
+
 ## Reasons not to chose this algorithm
 1. TSLA is a volatile stock.
 2. Long-term investments for volatile stocks are stupid investments.
