@@ -16,3 +16,10 @@ This is because:
 1. TSLA is a volatile stock.
 2. Long-term investments for volatile stocks are stupid investments.
 3. It is inaccurate, same-day investing and predictions are more applicable.
+
+## Note
+We've not implemented a "percentage score" as the assignment asks for.
+This doesn't really seem to make sense for linear regression. See associated MSE scores in the notebook.
+
+## For the aspiring stock trader
+Don't use this. Hamster trader is better.
